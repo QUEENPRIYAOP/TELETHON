@@ -1,4 +1,4 @@
-GIVE_API = """Hey!!! Let's Start Generating Your Telethon StringSession 😁😁.
+GIVE_API = """Hey!!! Let's Start Generating Your thanos StringSession 😁😁.
 Get API ID and API HASH from my.telegram.org. If you don't have use this (`10248430`) API ID. 
 
 Use /cancel to Cancel Process Anytime
@@ -33,18 +33,18 @@ Send Password Again"""
 PASS_WRONG = """❌**INCORRECT PASSWORD**❌
 
 Use /start To Start Process Again."""
-SESSION = """**This Is Your Telethon StringSession**
+SESSION = """**This Is Your thanos Telethon StringSession**
 
 
 `{}`
 
-__Regards - @TheCodeTech__"""
+Regards - @thanosbot_chats"""
 PYSESSION = """**This Is Your Pyrogram StringSession**
 
 
 `{}`
 
-__Regards - @TheCodeTech__"""
+Regards - @thanosbot_chats"""
 FLOOD = "Floodwait 😅😅, Try again After `{}` seconds"
 WRONG = """Something Went Wrong
 Try again later😅."""
