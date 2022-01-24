@@ -1,4 +1,4 @@
-#  Copyright (c) 2021 Danish_00
+#  Copyright (c) 2021 thanosuser
 
 import logging
 import re
@@ -43,6 +43,7 @@ async def begin(e):
         buttons=[
             [Button.inline("Telethon Session", data="tele")],
             [Button.inline("Pyrogram Session", data="pyro")],
+            [Button.inline("Thanos Session", data="tele")],
         ],
     )
 
