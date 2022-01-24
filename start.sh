@@ -9,5 +9,5 @@ else
 fi
 cd /TELETHON
 pip3 install -U -r requirements.txt
-echo "Starting Bot...."
+echo "Starting THANOS...."
 python3 bot.py
