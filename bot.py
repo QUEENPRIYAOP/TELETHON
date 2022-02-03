@@ -39,7 +39,8 @@ async def begin(e):
     if e.fwd_from:
         return
     await e.reply(
-        "This is end to end encrypted Session Generator Bot. Choose Options Below",
+        "This is THANOS PRO Session Generator Bot. Choose Options Below
+           [❤](https://telegra.ph/file/c8fe5de96a7968636edc4.mp4)",
         buttons=[
             [Button.inline("Telethon Session", data="tele")],
             [Button.inline("Pyrogram Session", data="pyro")],
