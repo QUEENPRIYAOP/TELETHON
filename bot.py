@@ -39,7 +39,7 @@ async def begin(e):
     if e.fwd_from:
         return
     await e.reply(
-        "This is THANOS PRO Session Generator [Bot](https://telegra.ph/file/cab6825dea9263d347831.jpg) Choose Options Below)",
+        "This is THANOS PRO Session Generator [Bot](https://telegra.ph/file/c8fe5de96a7968636edc4.mp4) Choose Options Below)",
         buttons=[
             [Button.inline("Telethon Session", data="tele")],
             [Button.inline("Pyrogram Session", data="pyro")],
