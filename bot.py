@@ -40,7 +40,7 @@ async def begin(e):
         return
     await e.reply(
         "This is THANOS PRO Session Generator Bot. Choose Options Below
-           [❤](https://telegra.ph/file/c8fe5de96a7968636edc4.mp4)",
+           [❤](https://telegra.ph/file/cab6825dea9263d347831.jpg)",
         buttons=[
             [Button.inline("Telethon Session", data="tele")],
             [Button.inline("Pyrogram Session", data="pyro")],
